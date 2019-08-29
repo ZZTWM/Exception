@@ -3,7 +3,11 @@ package com.test;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
-
+/**
+ * finally:无论是否出现异常，finally中的代码都会被执行
+ * @author Administrator
+ *
+ */
 public class Test07 {
 
 	public static void main(String[] args) {
